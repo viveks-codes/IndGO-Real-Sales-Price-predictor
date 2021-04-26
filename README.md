@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> Thid Project uses Machine Learning to Predict House price
+> This Project uses Machine Learning to Predict House price
 
 ## Author
 
